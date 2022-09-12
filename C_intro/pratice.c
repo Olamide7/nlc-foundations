@@ -19,7 +19,7 @@ int FavNum_myChar()
 {
 int FavNum = 100;
 char myChar = 'O';
-printf("My favourite %c is %f\n","myChar", FavNum);
+printf("My favourite %c is %f/n", myChar, FavNum);
 return 0;
 }
 

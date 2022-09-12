@@ -13,16 +13,12 @@ int add_two(int y, int x);
 
 int main()
 {
-    //char
-    char C = '1';
-    //print 'char is 1 byte'
-    printf("char is %c byte\n", C);
-    add_two(2, 2);
+    int result = add_two(4, 4);
+    printf("Answer %d\n", result);
     return(0);
 }
 int add_two(int y, int x)
 {
     int result = y + x;
-    printf("%d\n", result);
     return(result);
 }
