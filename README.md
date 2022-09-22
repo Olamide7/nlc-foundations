@@ -1,3 +1,3 @@
 My Name is Uthman Taofeeq
-This repository is about my bash script, which allows me automatically copy my ssh key to m,y github account withiout having to login.
+This repository is about All i do in programming, Still a beginner tho.
 _ENJOY_!!!!
