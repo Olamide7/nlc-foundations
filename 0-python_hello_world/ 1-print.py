@@ -1,0 +1,6 @@
+#!/usr/bin/python3
+
+print("PROGRAMMING IS LIKE BUILDING A MULTILINGUAL PUZZLE")
+
+
+
